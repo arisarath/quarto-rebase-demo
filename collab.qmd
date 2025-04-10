@@ -11,6 +11,11 @@ This is a collaborative Quarto project.
 <!-- Student sections will go here -->
 
 
+
 #my-section 
 
 Sia
+
+# Instructor's section
+This section was added after Student B began work.
+
